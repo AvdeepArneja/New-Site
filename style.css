@@ -1,0 +1,95 @@
+            body {
+                margin: 0%;
+                background-color: rgb(57, 3, 3);
+            }
+            
+            h1 {
+                margin-top: 100px;
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                text-decoration: underline;
+                text-align: center;
+            }
+            
+            .top-container {
+                background-color: #E0D8B0;
+                border-width: 10px 20px 30px 40px;
+                height: 200px;
+                width: 220px;
+                border: solid 10px white;
+                position: static;
+            }
+            
+            .middle-container {
+                background-color: yellow;
+                height: 200px;
+                width: 200px;
+                border: solid 10px white;
+                position: relative;
+                left: 250px;
+            }
+            
+            .bottom-container {
+                background-color: red;
+                height: 200px;
+                width: 200px;
+                border: solid 10px white;
+                position: relative;
+                left: 480px;
+            }
+            
+            .p1 {
+                margin-left: 25px;
+            }
+            
+            .p2 {
+                margin-left: 40px;
+            }
+            
+            .p3 {
+                margin-left: 42px;
+            }
+            
+            .pink {
+                background-color: pink;
+                height: 200px;
+                width: 200px;
+                position: relative;
+                bottom: 220px;
+                border: solid 10px white;
+                left: 750px;
+            }
+            
+            .orange {
+                background-color: orange;
+                height: 200px;
+                width: 200px;
+                position: relative;
+                bottom: 660px;
+                left: 980px;
+                border: solid 10px white;
+            }
+            
+            .green {
+                background-color: green;
+                height: 200px;
+                width: 200px;
+                border: solid 10px white;
+                position: relative;
+                bottom: 1100px;
+                left: 1210px;
+            }
+            
+            .p4 {
+                position: relative;
+                left: 25px;
+            }
+            
+            .p5 {
+                position: relative;
+                left: 25px;
+            }
+            
+            .p6 {
+                position: relative;
+                left: 25px;
+            }
